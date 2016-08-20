@@ -44,6 +44,22 @@
 <p>git branch -m {oldbranchname} {newbranchname}</p>
 <p>This command is used to rename a branch</p>
 <p>git branch -d {branchname}</p>
-<p>This command deletes the branch, just make sure you checkout to another branch before deleting</p>
+<p>This command deletes the branch, just make sure you checkout to another branch before deleting</p><br/>
+
+
+<b>git Rebase</b>
+<p>Similar to merge but removes history.</p><br/>
+
+
+<b>git clone</b>
+<p>Clones the project into your local.</p><br/>
+
+
+<b>git Fork</b>
+<p>Forking allows you to copy other peoples project into your own github account.</p><br/>
+
+<b>git Pull</b>
+<p>Pulling allows you to propose changes to someone else's project.</p><br/>
+
 <b></b>
 <p></p><br/>
