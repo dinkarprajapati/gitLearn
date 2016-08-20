@@ -31,6 +31,7 @@
 <p>git pull origin master</p>
 <p>It is always a good practice to pull from remote repo before pushing it to remote repo. Pull command will try to pull all the changes made by other person before pushing your own changes.</p><br/>
 
+
 <b>Learn Branch</b>
 <p>git branch -a</p>
 <p>Lists out all the branches in the repo</p>
@@ -38,13 +39,11 @@
 <p>This will create a new branch with the name mentioned</p>
 <p>git checkout {newBranchName}</p>
 <p>This will switch to the new branch</p>
-<br/>
-
-<b></b>
-<p></p><br/>
-
-<b></b>
-<p></p><br/>
-
+<p>git checkout -b {newBranchName}</p>
+<p>This command will create a new branch and switch to it as well. This is a one line solution for creating and switching to branch.</p>
+<p>git branch -m {oldbranchname} {newbranchname}</p>
+<p>This command is used to rename a branch</p>
+<p>git branch -d {branchname}</p>
+<p>This command deletes the branch, just make sure you checkout to another branch before deleting</p>
 <b></b>
 <p></p><br/>
