@@ -23,11 +23,13 @@
 <p>Checking the difference of file in local and remote</p><br/>
 
 <b>Fetch and Merge</b>
-<p>git fetch</p><br/>
+<p>git fetch</p>
 <p>git merge origin/master</p><br/>
 
-<b></b>
-<p></p><br/>
+<b>Pull</b>
+<p>Instead of using fetch and merge, we can use pull command.</p>
+<p>git pull origin master</p>
+<p>It is always a good practice to pull from remote repo before pushing it to remote repo. Pull command will try to pull all the changes made by other person before pushing your own changes.</p><br/>
 
 <b></b>
 <p></p><br/>
