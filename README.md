@@ -1,2 +1,5 @@
 # gitLearn
-basic tips on how to use git
+
+<b>git init</b><br/>
+This initializes an empty folder to be a git repository
+
