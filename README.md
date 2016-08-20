@@ -17,8 +17,18 @@
 
 <b>Undoing a Pushed Change</b>
 <p>After pushing your changes to github, if you want to revert the changes, use command</p><br/>
-<p>git revert HEAD</p><br/>
+<b>git revert HEAD</b>
 <p>Then push the previous commit to master, this will remove the new changes and revert back the previous one.</p><br/>
+
+<b>git diff</b>
+<p>Checking the difference of file in local and remote</p><br/>
+
+<b>Fetch and Merge</b>
+<p>git fetch</p><br/>
+<p>git merge origin/master</p><br/>
+
+<b></b>
+<p></p><br/>
 
 <b></b>
 <p></p><br/>
